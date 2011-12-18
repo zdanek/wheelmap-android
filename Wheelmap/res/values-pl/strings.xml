@@ -20,7 +20,7 @@ limitations under the License.
     <string name="description_filter">Filtr</string>
     <string name="description_gps">Aktualna pozycja</string>
     <string name="description_edit">Zmień</string>
-    <string name="new_default_name">Nowe punkt</string>
+    <string name="new_default_name">Nowy punkt</string>
     <string name="title_pois_list">Lista</string>
     <string name="title_pois_map">Mapa</string>
     <string name="title_pois_settings">Ustawienia filtra</string>
@@ -62,7 +62,7 @@ limitations under the License.
     <string name="title_wheelchairstate">Bezbarierowość?</string>
     <string name="pull_to_refresh_pull_label">Pociągnij, aby odświeżyć...</string>
     <string name="pull_to_refresh_release_label">Puść, aby odświeżyć...</string>
-    <string name="pull_to_refresh_refreshing_label">Aktualizacia...</string>
+    <string name="pull_to_refresh_refreshing_label">Aktualizacja...</string>
     <string name="pull_to_refresh_tap_label">Puknij, aby odświeżyć...</string>
     <string name="okay">W porządku</string>
     <string name="error_network_title">Problem z siecią</string>
@@ -75,10 +75,10 @@ limitations under the License.
     <string name="title_legal_notice">Informacje prawne</string>
     <string name="legal_notice_opensource">Otwarte oprogramowanie (Open Source)</string>
     <string name="legal_notice_intro">Ten program jest oparty o inne oprogramowanie. Oto prawa autorskie:</string>
-    <string name="ws_unknown">Nieznany. Prosimy o pomoc w określeniu dostępności.</string>
-    <string name="ws_enabled">Tak: Wejście bez barier, wszystkie pomieszczenia bez stopni. Toaleta dostępna.</string>
-    <string name="ws_limited">Ograniczon: Wejście ma stopień (maks. 7 cm). Większość pomieszczeń bez stopni. Toaleta niedostępna.</string>
-    <string name="ws_disabled">Nie: wejście ma jeden wysoki lub kilka stopni. Wszystkie pomieszczenia niedostępne.</string>
+    <string name="ws_unknown">Nie wiadomo: Pomóż nam i zaznacz miejsca na mapie!</string>
+    <string name="ws_enabled">Tak: Wejście bez stopni, wszystkie pomieszczenia bez stopni, toaleta dostępna</string>
+    <string name="ws_limited">Ograniczone: Wejście ma stopień (do 7 cm), większość pomieszczeń bez stopni, toaleta niedostępna.</string>
+    <string name="ws_disabled">Nie: Wejście ma wysoki stopień lub kilka stopni, pomieszczenia są niedostępne.</string>
     <string name="ws_limited_title">Częściowo dostępne</string>
     <string name="ws_enabled_title">Dostępne</string>
     <string name="ws_disabled_title">Niedostępne</string>
